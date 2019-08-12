@@ -1,0 +1,25 @@
+O:\1_Administration\Informatique\1_Gestion administrative\Formation\Apprentis\(2016-2020) Cordonier Romy\Exercices\VB\Ananas\bin\Debug\Ananas.exe.config
+O:\1_Administration\Informatique\1_Gestion administrative\Formation\Apprentis\(2016-2020) Cordonier Romy\Exercices\VB\Ananas\bin\Debug\Ananas.exe
+O:\1_Administration\Informatique\1_Gestion administrative\Formation\Apprentis\(2016-2020) Cordonier Romy\Exercices\VB\Ananas\bin\Debug\Ananas.pdb
+O:\1_Administration\Informatique\1_Gestion administrative\Formation\Apprentis\(2016-2020) Cordonier Romy\Exercices\VB\Ananas\bin\Debug\Ananas.xml
+O:\1_Administration\Informatique\1_Gestion administrative\Formation\Apprentis\(2016-2020) Cordonier Romy\Exercices\VB\Ananas\obj\Debug\Ananas.vbprojResolveAssemblyReference.cache
+O:\1_Administration\Informatique\1_Gestion administrative\Formation\Apprentis\(2016-2020) Cordonier Romy\Exercices\VB\Ananas\obj\Debug\WindowsApplication1.Ananas.resources
+O:\1_Administration\Informatique\1_Gestion administrative\Formation\Apprentis\(2016-2020) Cordonier Romy\Exercices\VB\Ananas\obj\Debug\WindowsApplication1.Resources.resources
+O:\1_Administration\Informatique\1_Gestion administrative\Formation\Apprentis\(2016-2020) Cordonier Romy\Exercices\VB\Ananas\obj\Debug\Ananas.vbproj.GenerateResource.Cache
+O:\1_Administration\Informatique\1_Gestion administrative\Formation\Apprentis\(2016-2020) Cordonier Romy\Exercices\VB\Ananas\obj\Debug\Ananas.exe
+O:\1_Administration\Informatique\1_Gestion administrative\Formation\Apprentis\(2016-2020) Cordonier Romy\Exercices\VB\Ananas\obj\Debug\Ananas.xml
+O:\1_Administration\Informatique\1_Gestion administrative\Formation\Apprentis\(2016-2020) Cordonier Romy\Exercices\VB\Ananas\obj\Debug\Ananas.pdb
+O:\1_Administration\Informatique\1_Gestion administrative\Formation\Apprentis\(2016-2020) Cordonier Romy\Exercices\VB\Ananas\obj\Debug\WindowsApplication1.Form2.resources
+N:\RM_Dev\RM_Ananas\bin\Debug\Ananas.exe.config
+N:\RM_Dev\RM_Ananas\bin\Debug\Ananas.exe
+N:\RM_Dev\RM_Ananas\bin\Debug\Ananas.pdb
+N:\RM_Dev\RM_Ananas\bin\Debug\Ananas.xml
+N:\RM_Dev\RM_Ananas\obj\Debug\Ananas.vbprojAssemblyReference.cache
+N:\RM_Dev\RM_Ananas\obj\Debug\WindowsApplication1.Ananas.resources
+N:\RM_Dev\RM_Ananas\obj\Debug\WindowsApplication1.Form2.resources
+N:\RM_Dev\RM_Ananas\obj\Debug\WindowsApplication1.Resources.resources
+N:\RM_Dev\RM_Ananas\obj\Debug\Ananas.vbproj.GenerateResource.cache
+N:\RM_Dev\RM_Ananas\obj\Debug\Ananas.vbproj.CoreCompileInputs.cache
+N:\RM_Dev\RM_Ananas\obj\Debug\Ananas.exe
+N:\RM_Dev\RM_Ananas\obj\Debug\Ananas.xml
+N:\RM_Dev\RM_Ananas\obj\Debug\Ananas.pdb
