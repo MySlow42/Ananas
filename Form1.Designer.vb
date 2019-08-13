@@ -31,12 +31,14 @@ Partial Class Ananas
         Me.Button3 = New System.Windows.Forms.Button()
         Me.OpenFileDialog1 = New System.Windows.Forms.OpenFileDialog()
         Me.Button4 = New System.Windows.Forms.Button()
+        Me.Button5 = New System.Windows.Forms.Button()
+        Me.Label2 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'Button1
         '
         Me.Button1.Image = CType(resources.GetObject("Button1.Image"), System.Drawing.Image)
-        Me.Button1.Location = New System.Drawing.Point(51, 11)
+        Me.Button1.Location = New System.Drawing.Point(47, 11)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(69, 63)
         Me.Button1.TabIndex = 0
@@ -49,7 +51,7 @@ Partial Class Ananas
         'Button2
         '
         Me.Button2.Image = CType(resources.GetObject("Button2.Image"), System.Drawing.Image)
-        Me.Button2.Location = New System.Drawing.Point(51, 12)
+        Me.Button2.Location = New System.Drawing.Point(47, 11)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(69, 62)
         Me.Button2.TabIndex = 2
@@ -59,11 +61,11 @@ Partial Class Ananas
         '
         Me.Label1.Anchor = System.Windows.Forms.AnchorStyles.None
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(2, 77)
+        Me.Label1.Location = New System.Drawing.Point(6, 77)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(164, 24)
+        Me.Label1.Size = New System.Drawing.Size(158, 24)
         Me.Label1.TabIndex = 5
-        Me.Label1.Text = "Arrêter"
+        Me.Label1.Text = "Lancer Ananas"
         Me.Label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
         '
         'Button3
@@ -88,16 +90,38 @@ Partial Class Ananas
         Me.Button4.Text = "Quitter"
         Me.Button4.UseVisualStyleBackColor = True
         '
+        'Button5
+        '
+        Me.Button5.Location = New System.Drawing.Point(264, 125)
+        Me.Button5.Name = "Button5"
+        Me.Button5.Size = New System.Drawing.Size(33, 29)
+        Me.Button5.TabIndex = 9
+        Me.Button5.Text = "?"
+        Me.Button5.UseVisualStyleBackColor = True
+        '
+        'Label2
+        '
+        Me.Label2.Anchor = System.Windows.Forms.AnchorStyles.None
+        Me.Label2.Location = New System.Drawing.Point(3, 101)
+        Me.Label2.Name = "Label2"
+        Me.Label2.Size = New System.Drawing.Size(297, 21)
+        Me.Label2.TabIndex = 10
+        Me.Label2.Text = "Label2"
+        Me.Label2.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        '
         'Ananas
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(309, 152)
+        Me.ClientSize = New System.Drawing.Size(309, 160)
+        Me.Controls.Add(Me.Label2)
+        Me.Controls.Add(Me.Button5)
         Me.Controls.Add(Me.Button4)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Label1)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.MinimizeBox = False
@@ -115,4 +139,6 @@ Partial Class Ananas
     Friend WithEvents Button3 As Button
     Friend WithEvents OpenFileDialog1 As OpenFileDialog
     Friend WithEvents Button4 As Button
+    Friend WithEvents Button5 As Button
+    Friend WithEvents Label2 As Label
 End Class

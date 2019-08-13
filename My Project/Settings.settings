@@ -1,7 +1,39 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" UseMySettingsClassName="true">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="lien" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Veuillez sélectionner un programme dans les paramètres</Value>
+    </Setting>
+    <Setting Name="appsname" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">15000</Value>
+    </Setting>
+    <Setting Name="expediteur" Type="System.String" Scope="User">
+      <Value Profile="(Default)">expediteur@domaine.com</Value>
+    </Setting>
+    <Setting Name="destinataire" Type="System.String" Scope="User">
+      <Value Profile="(Default)">destinateur@domaine.com</Value>
+    </Setting>
+    <Setting Name="serveurSMTP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.domaine.com</Value>
+    </Setting>
+    <Setting Name="noPortSMTP" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="OnOff" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="msgSuppMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AutoPlay" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="Exe" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
 </SettingsFile>
